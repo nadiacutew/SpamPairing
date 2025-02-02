@@ -1,0 +1,17 @@
+{
+  "name": "nightcore",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "colors": "^1.4.0",
+    "figlet": "^1.8.0",
+    "readline": "^1.3.0"
+  }
+}
